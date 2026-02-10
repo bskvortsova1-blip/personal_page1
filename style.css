@@ -1,9 +1,6 @@
-/* Подключаем шрифт */
-@import url('fonts/main_font.css');
-
 * {
     margin: 0;
-    font-family: 'StratosSkyeng', sans-serif;
+    font-family: Arial, sans-serif;
 }
 
 body {
